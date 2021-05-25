@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "935f63112d3e81700883c207f40bf28b",
+    "revision": "b08d910c9d560e34b0d0d0e00769dfd0",
     "url": "/PortfolioV2/index.html"
   },
   {
-    "revision": "05d02dd7fa22e7a51cdd",
+    "revision": "706e8215850853b3c2a0",
     "url": "/PortfolioV2/static/css/main.0dbf7b44.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PortfolioV2/static/js/2.7fa7e67f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "05d02dd7fa22e7a51cdd",
-    "url": "/PortfolioV2/static/js/main.12059970.chunk.js"
+    "revision": "706e8215850853b3c2a0",
+    "url": "/PortfolioV2/static/js/main.64c9a549.chunk.js"
   },
   {
     "revision": "fa3d357ccb70488561f4",
@@ -148,8 +148,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PortfolioV2/static/media/gtu.3d9465c3.png"
   },
   {
-    "revision": "7a2dbf7a2595600c00118eea8a7a52f8",
-    "url": "/PortfolioV2/static/media/hackathon1.7a2dbf7a.svg"
+    "revision": "f7288055334eeee2693e025ee2a8a8ee",
+    "url": "/PortfolioV2/static/media/hackathon1.f7288055.svg"
   },
   {
     "revision": "823352fd86e6f76120c6713bccc61157",
