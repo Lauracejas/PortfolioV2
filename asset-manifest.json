@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.42d59796.chunk.css",
-    "main.js": "/static/js/main.7e4aa1a0.chunk.js",
-    "main.js.map": "/static/js/main.7e4aa1a0.chunk.js.map",
+    "main.js": "/static/js/main.2ec783f0.chunk.js",
+    "main.js.map": "/static/js/main.2ec783f0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.00060668.js",
     "runtime-main.js.map": "/static/js/runtime-main.00060668.js.map",
-    "static/js/2.7aec8e5a.chunk.js": "/static/js/2.7aec8e5a.chunk.js",
-    "static/js/2.7aec8e5a.chunk.js.map": "/static/js/2.7aec8e5a.chunk.js.map",
+    "static/js/2.ec7d4014.chunk.js": "/static/js/2.ec7d4014.chunk.js",
+    "static/js/2.ec7d4014.chunk.js.map": "/static/js/2.ec7d4014.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0511638ccfb274c473af6d4b86c7a1f4.js": "/precache-manifest.0511638ccfb274c473af6d4b86c7a1f4.js",
+    "precache-manifest.f4663e994bc260aadd81c21a8151f4c7.js": "/precache-manifest.f4663e994bc260aadd81c21a8151f4c7.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.42d59796.chunk.css.map": "/static/css/main.42d59796.chunk.css.map",
-    "static/js/2.7aec8e5a.chunk.js.LICENSE.txt": "/static/js/2.7aec8e5a.chunk.js.LICENSE.txt",
+    "static/js/2.ec7d4014.chunk.js.LICENSE.txt": "/static/js/2.ec7d4014.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/buld.jpg": "/static/media/buld.a1051a22.jpg",
     "static/media/cwoc.png": "/static/media/cwoc.404ae7bc.png",
@@ -23,7 +23,8 @@
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/gtu.png": "/static/media/gtu.3d9465c3.png",
     "static/media/hackathon1.svg": "/static/media/hackathon1.f7288055.svg",
-    "static/media/harikrushn.jpg": "/static/media/harikrushn.823352fd.jpg",
+    "static/media/harikrushn.jpg": "/static/media/harikrushn.822bc485.jpg",
+    "static/media/harikrushn1.jpg": "/static/media/harikrushn1.823352fd.jpg",
     "static/media/iit.png": "/static/media/iit.36d7942a.png",
     "static/media/ino.png": "/static/media/ino.ccf88661.png",
     "static/media/localguide.gif": "/static/media/localguide.847873a8.gif",
@@ -41,8 +42,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.00060668.js",
-    "static/js/2.7aec8e5a.chunk.js",
+    "static/js/2.ec7d4014.chunk.js",
     "static/css/main.42d59796.chunk.css",
-    "static/js/main.7e4aa1a0.chunk.js"
+    "static/js/main.2ec783f0.chunk.js"
   ]
 }
